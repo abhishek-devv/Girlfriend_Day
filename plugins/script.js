@@ -74,7 +74,7 @@ function typeText(element, text) {
     }, 200);
 }
 
-const heroTextContent = 'Smita is my Love';
+const heroTextContent = 'Smita is my Love Forever';
 typeText(heroText, heroTextContent);
 
 const fontChangeInterval = setInterval(() => {
